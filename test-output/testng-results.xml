@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="85" total="86" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Quotations Dataset Table design report columns are swapped successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49730" started-at="2018-06-28T12:34:47Z" finished-at="2018-06-28T12:35:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49730" started-at="2018-06-28T12:34:47Z" finished-at="2018-06-28T12:35:36Z">
+      <class name="com.testcases.BuildPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.BuildPageTest@1e397ed7]" name="setUp" is-config="true" duration-ms="33117" started-at="2018-06-28T18:04:47Z" finished-at="2018-06-28T18:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Quotations_Dataset_Table_Design_Swaping_Columns_Test()[pri:0, instance:com.testcases.BuildPageTest@1e397ed7]" name="Quotations_Dataset_Table_Design_Swaping_Columns_Test" duration-ms="15461" started-at="2018-06-28T18:05:20Z" finished-at="2018-06-28T18:05:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Quotations Dataset Table design report columns are swapped successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Quotations_Dataset_Table_Design_Swaping_Columns_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.BuildPageTest@1e397ed7]" name="tearDown" is-config="true" duration-ms="1136" started-at="2018-06-28T18:05:35Z" finished-at="2018-06-28T18:05:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.BuildPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
